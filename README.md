@@ -4,5 +4,12 @@ Developed console application that reads optical character and recognized it.
  - Windows (7.0 or above)
  - Jupyter Notebook
  
-## How to use and opearte?
-- Files for this application are under processing will be uploaded soon with the procedure to run it.
+## How to use and operate?
+ - Download all the files
+ - Four files (trainX, trainY, testX, testY) are used for training and testing process
+ - Keep all the files in same folder
+ - Open this folder in Jupyter Nooebook and Run code.ipynb file
+ - Enjoy your code
+ 
+ ---------------------------------------------------------------
+
